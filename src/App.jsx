@@ -1,6 +1,6 @@
 import React from "react"
 import styles from "./style";
-import {Navbar, Billing, Bussines, Button, CardDeal, Clients, CTA, FeedbackCard, Footer, Hero, Stats, Testimonials} from './src/components'
+import {Navbar, Billing, Bussines, Button, CardDeal, Clients, CTA, FeedbackCard, Footer, Hero, Stats, Testimonials} from './components'
 import './index.css'
 
 const App = () =>{  
